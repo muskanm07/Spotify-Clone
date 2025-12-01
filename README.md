@@ -13,10 +13,10 @@ A simple **Spotify Clone** web application built using **HTML, CSS, and Bootstra
 ## Installation / Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   https://github.com/muskanm07/Spotify-Clone
 ## Technologies-Used
--HTML
--CSS
--Bootstrap
+- HTML
+- CSS
+- Bootstrap
 ## Author
 Muskan Maurya
